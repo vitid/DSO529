@@ -1,0 +1,3 @@
+scores.csv - https://www.kaggle.com/nycopendata/high-schools
+demographics.csv - http://schools.nyc.gov/NR/rdonlyres/46093164-D8AA-40DD-A400-8F80CEBC8DD5/0/DemographicSnapshot201112to201516Public_FINAL.xlsx
+survey_2014.csv - http://schools.nyc.gov/documents/misc/2014%20Public%20Data%20File%20SUPPRESSED.xlsx
